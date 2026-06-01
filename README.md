@@ -1,1 +1,1 @@
-### The directory with additional information for papers
+### The directory with branches for additional information
