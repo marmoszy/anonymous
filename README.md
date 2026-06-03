@@ -9,4 +9,4 @@ Branch 1 - linked to: https://anonymous.4open.science/r/anonymous-1967/FreeSuppl
 Branch 2 - linked to: https://anonymous.4open.science/r/anonymous-9C6B/BPM_AIUsage_FinalAppdx.pdf
 
 # 2. https://anonymous.4open.science/  
-marmoszy@pg.edu.pl !Marek1964!
+marmoszy@pg.edu.pl
